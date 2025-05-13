@@ -36,7 +36,7 @@ This project is a complete pipeline for **Sentiment Analysis** using **Deep Lear
 1. **Clone the repo**
 ```bash
 git clone https://github.com/Over-Mind1/NLP/Sentiment Analyzer.git
-cd sentiment-analyzer
+cd Sentiment Analyzer
 ````
 
 2. **Install dependencies**
@@ -81,7 +81,7 @@ streamlit run app.py
 ## 🙋‍♂️ Author
 
 **Mohamed Sabry Hussien**
-[LinkedIn](https://www.linkedin.com/in/mo7amedsabry) | [Kaggle](https://www.kaggle.com/mo7amedsabry)
+[LinkedIn](https://www.linkedin.com/in/m0hamed-sabry/) | [Kaggle](https://www.kaggle.com/mo7amedsabry)
 
 ---
 
