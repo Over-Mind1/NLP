@@ -1,5 +1,4 @@
 
-````markdown
 # 🧠 Sentiment Analyzer – Amazon Reviews with LSTM
 
 This project is a complete pipeline for **Sentiment Analysis** using **Deep Learning (LSTM)** on **Amazon Reviews** dataset. It covers data preprocessing, visualization, model training, evaluation, and deployment using **Streamlit** on **Hugging Face Spaces**.
